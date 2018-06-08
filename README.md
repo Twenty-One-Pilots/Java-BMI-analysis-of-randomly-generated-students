@@ -16,7 +16,7 @@ BMI analysis of randomly generated students，by Java.
 
 由于初次接触面向对象编程，故耗费精力较多。
 
-```
+```Java
 package oobmi;
 
 import java.util.Random;
