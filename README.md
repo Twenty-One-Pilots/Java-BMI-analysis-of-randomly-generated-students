@@ -1,6 +1,8 @@
 # Java-BMI-analysis-of-randomly-generated-students
 BMI analysis of randomly generated students，by Java.
+
 今天的Java实验的内容： 
+
 题目：
 
 > 1）编写OOBMI类文件；并在该类文件中定义另一个类Student，该类包含学号、姓名、身高、体重和bmi等属性，为Student类定义创建函数。 
@@ -14,6 +16,7 @@ BMI analysis of randomly generated students，by Java.
 
 由于初次接触面向对象编程，故耗费精力较多。
 
+```
 package oobmi;
 
 import java.util.Random;
@@ -192,3 +195,4 @@ class Student {
         this.bmi = bmi;
     }
 }
+```
